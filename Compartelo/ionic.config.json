@@ -1,0 +1,7 @@
+{
+  "name": "Compartelo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

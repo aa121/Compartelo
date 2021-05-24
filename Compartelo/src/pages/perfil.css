@@ -1,0 +1,18 @@
+.centrar-foto{
+    width: 80;
+    height: 80;
+    margin-left: 40%;
+    margin-top: 10px;
+    top: 25px;
+    align-items: center;
+}
+.centrar{
+    margin-left: 30%;
+}
+.centrar-chip{
+    width: 30%;
+}
+
+.centrar-chip-label{
+    margin-left: 9px;
+}
